@@ -3,6 +3,11 @@ const $$ = document.querySelectorAll.bind(document);
 
 const PLAYER_STORAGE_KEY = 'F8_PLAYER'
 
+
+
+// abc
+
+
 const player = $('.player')
 const cd = $('.cd')
 const heading = $('header h2')
